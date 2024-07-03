@@ -58,6 +58,11 @@ The boxplot shows that players that play in the skill position do more pushups i
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(pushups~position,data=mydata)
+```
+
+This numerical summary shows that on average skill players do 49.8 pushups in 2 mins whereas line players do 17.1 pushups on average in 2 mins.  
 
 ## Inferential Results
 
