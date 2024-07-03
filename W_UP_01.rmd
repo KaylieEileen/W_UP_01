@@ -53,7 +53,7 @@ so we use the numerical ~ categorical helper file
 boxplot(pushups~position,data=mydata)
 ```
 
-The boxplot shows that skills position do more pushups than the line position. 
+The boxplot shows that players that play in the skill position do more pushups in 2 minutes than the players in the line positions.   
 
 ### Numerical Descriptive Results
 
